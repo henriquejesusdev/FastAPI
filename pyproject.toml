@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fastapi"
+name = "task-api"
 version = "0.1.0"
 description = ""
 authors = ["Henrique Jesus <henrique.jesus128@gmail.com>"]
